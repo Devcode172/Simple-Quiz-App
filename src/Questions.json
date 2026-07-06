@@ -1,0 +1,57 @@
+[
+  {
+    "id":1,
+    "question": "What does setInterval() return in JavaScript?",
+    "options": [
+      "A Promise",
+      "A Timer ID",
+      "A Callback Function",
+      "An Array"
+    ],
+    "correctAnswer": "A Timer ID"
+  },
+  {
+    "id":2,
+    "question": "Which method is used to stop a setInterval() timer?",
+    "options": [
+      "clearTimeout()",
+      "stopInterval()",
+      "clearInterval()",
+      "removeInterval()"
+    ],
+    "correctAnswer": "clearInterval()"
+  },
+  {
+    "id":3,
+    "question": "Which hook is used to manage state in a React functional component?",
+    "options": [
+      "useEffect",
+      "useState",
+      "useContext",
+      "useMemo"
+    ],
+    "correctAnswer": "useState"
+  },
+  {
+    "id":4,
+    "question": "What is the default HTTP method used when retrieving data from an API?",
+    "options": [
+      "POST",
+      "PUT",
+      "GET",
+      "DELETE"
+    ],
+    "correctAnswer": "GET"
+  },
+  {
+    "id":5,
+    "question": "Which environment variable file is commonly used in Node.js projects?",
+    "options": [
+      "config.json",
+      "settings.js",
+      ".env",
+      "package.json"
+    ],
+    "correctAnswer": ".env"
+  }
+]
